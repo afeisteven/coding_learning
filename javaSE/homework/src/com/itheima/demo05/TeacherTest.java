@@ -5,7 +5,7 @@ public class TeacherTest {
         Teacher t1 = new Teacher();
         System.out.println("=========");
         System.out.println(t1.getName() + "\t" + t1.getAge() + "\t" + t1.getContent());
-        t1.setName("憨批");
+        t1.setName("小学生");
         t1.setAge(18);
         t1.setContent("英语绘本");
         System.out.println("=========");
